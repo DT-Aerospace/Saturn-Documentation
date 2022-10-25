@@ -3,3 +3,7 @@ version: 1
 formats:
   - pdf
   - epub
+  
+mkdocs:
+  configuration: mkdocs.yml
+  fail_on_warning: false
